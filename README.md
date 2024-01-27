@@ -55,7 +55,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor]( https://ww
 
 ### Continued development
 
--Learn more and more everyday to become better the yesterday.
+-Learn more and more everyday to become better then yesterday.
 
 ### Useful resources
 
