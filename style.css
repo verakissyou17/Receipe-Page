@@ -42,6 +42,10 @@
   width: 100%;
   max-width: 700px;
   background-color: var(--White);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
   .recipe-presentation,
