@@ -56,6 +56,7 @@
     width: 90%;
     max-width: 500px;
     margin: 0 auto;
+    padding-left: 1em;
   }
 
   ul {
@@ -71,17 +72,15 @@
 
     ol {
       counter-reset: item ;
-      width: 80%;
       max-width: 500px;
       margin: 0 auto;
     }
 
     ol li { 
-      display: block;
       font-family: 'Outfit', sans-serif;
       font-weight: 500; 
       color: var(--Wenge-Brown);
-      padding: .25em;
+      padding: .7em;
       position: relative;
       margin: 0 auto;
     }
@@ -128,13 +127,6 @@
       color: var(--dark-raspberry);
       margin: .5em .5em;
       font-family: 'Young Serif', sans-serif;
-    }
-
-    .nutrition-container {
-      font-family: 'Outfit', sans-serif;
-      font-weight: 500; 
-      color: var(--Wenge-Brown);
-      padding:.5em;
     }
 
     .numeric--values {
